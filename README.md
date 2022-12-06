@@ -1,1 +1,1 @@
-# first--start-react-native
+# first-start-react-native
